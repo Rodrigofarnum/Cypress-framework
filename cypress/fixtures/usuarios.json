@@ -1,0 +1,68 @@
+{ "usuarios":
+ [
+    {
+        
+      "name": "Peter Jason Quill",
+      "email": "peter.quill@alura.com.br",
+      "password": "Senha123"
+
+    },
+    {
+        "name": "Gamora Zen Whoberi Ben Titan",
+        "email": "gamora@alura.com",
+        "password": "Senha123"
+    },
+    { 
+      "name": "Rocket Raccoon",
+      "email": "rocket.raccoon@alura.com.br",
+      "password": "Senha123"
+    },
+    {
+        "name": "Groot",
+        "email": "groot@alura.com.br",
+        "password": "Senha123"
+    }
+    ,
+    {
+        "name": "Drax",
+        "email": "drax@alura.com",
+        "password": "Senha123"
+    },
+    {
+
+        "name": "Yondu Udonta",
+        "email": "youndu@alura.com.br",
+        "password": "Senha123"
+    },
+    {
+        "name": "Tony Stark",
+        "email": "tony.stark@alura.com",
+        "password": "IronMan123"
+    },
+    {
+        "name": "Natasha Romanoff",
+        "email": "natasha.romanoff@alura.com.br",
+        "password": "BlackWidow123"
+    },
+    {
+        "name": "Steve Rogers",
+        "email": "steve.rogers@alura.com",
+        "password": "America123"
+    },
+    {
+        "name": "Bruce Banner",
+        "email": "bruce.banner@alura.com.br",
+        "password": "Hulk123"
+    },
+    {
+        "name": "Thor Odinson",
+        "email": "thor.odinson@alura.com",
+        "password": "Thunder123"
+    },
+    {
+        "name": "Wanda Maximoff",
+        "email": "wanda.maximoff@alura.com.br",
+        "password": "Scarlet123"
+    }
+    ]
+  }
