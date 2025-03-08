@@ -1,4 +1,4 @@
-describe('07 Apresentação inválida', () => {
+describe('3.1 Apresentação Errada', () => {
     beforeEach(() => {
         cy.visit('https://adopet-frontend-cypress.vercel.app');
     })

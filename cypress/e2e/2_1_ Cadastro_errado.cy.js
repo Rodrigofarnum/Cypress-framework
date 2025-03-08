@@ -1,4 +1,4 @@
-describe('06 Cadastro Errado', () => {
+describe('2.1 Cadastro Errado', () => {
   it('Deve preencher o e-mail e a senha de forma inválida e verificar as três mensagens de alerta para o usuário', () => {
     cy.visit('https://adopet-frontend-cypress.vercel.app');
     cy.get('[data-test="register-button"]').click();

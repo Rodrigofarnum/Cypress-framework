@@ -1,5 +1,5 @@
 
-describe('01 Fazer o login', () => {
+describe('1 Fazer o login', () => {
     beforeEach(() => {
         cy.visit('https://adopet-frontend-cypress.vercel.app');
         cy.get('[data-test="login-button"]').click();

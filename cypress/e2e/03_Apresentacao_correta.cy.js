@@ -1,4 +1,4 @@
-describe('03 Apresentação', () => {
+describe('3 Apresentação', () => {
     beforeEach(() => {
         cy.visit('https://adopet-frontend-cypress.vercel.app');
     })
