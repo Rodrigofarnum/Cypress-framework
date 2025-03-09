@@ -22,15 +22,17 @@
 
 # Documentação Casos de Testes:
 
-• [Visite a documentação do caso de teste 01 no ClickUp](https://app.clickup.com/9013703346/v/dc/8cm4cnj-133) 
+• [Visite a documentação do caso de teste 01](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2001_Login.pdf)) 
 
-• [Visite a documentação do caso de teste 02 no ClickUp](https://app.clickup.com/9013703346/v/dc/8cm4cnj-173)
+• [Visite a documentação do caso de teste 02](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2002%20_Cadastro.pdf))
 
-• [Visite a documentação do caso de teste 03 no ClickUp](https://app.clickup.com/9013703346/v/dc/8cm4cnj-213)
+• [Visite a documentação do caso de teste 03](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2003%20_Apresenta%C3%A7%C3%A3o.pdf))
 
-• [Visite a documentação do caso de teste 04 no ClickUp](https://app.clickup.com/9013703346/v/dc/8cm4cnj-253)
+• [Visite a documentação do caso de teste 04](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2004%20-_API_mensagens.pdf)
 
 
 # Evidências de Testes:
 
 • [Visite as evidências dos testes](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/tree/master/cypress/results)
+
+
