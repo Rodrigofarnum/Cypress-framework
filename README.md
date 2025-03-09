@@ -22,11 +22,11 @@
 
 # Documentação Casos de Testes:
 
-• [Visite a documentação do caso de teste 01](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2001_Login.pdf)) 
+• [Visite a documentação do caso de teste 01](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2001_Login.pdf)
 
-• [Visite a documentação do caso de teste 02](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2002%20_Cadastro.pdf))
+• [Visite a documentação do caso de teste 02](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2002%20_Cadastro.pdf)
 
-• [Visite a documentação do caso de teste 03](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2003%20_Apresenta%C3%A7%C3%A3o.pdf))
+• [Visite a documentação do caso de teste 03](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2003%20_Apresenta%C3%A7%C3%A3o.pdf)
 
 • [Visite a documentação do caso de teste 04](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/blob/master/cypress/results/Caso%20de%20Teste/Caso%20de%20Teste%2004%20-_API_mensagens.pdf)
 
