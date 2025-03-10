@@ -35,4 +35,6 @@
 
 • [Visite as evidências dos testes](https://github.com/Rodrigofarnum/WEB_Automation_Adopet/tree/master/cypress/results)
 
+# Resumo dos Resultados:
 
+• Neste cenário um teste de sanidade que levava de 10 a 20 minutos para ser executado manualmente, foi automatizado e passou a ser executado em apenas 42 segundos. Gerando automaticamente os relatórios e as evidências dos casos de testes. 
