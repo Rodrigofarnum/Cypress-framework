@@ -37,4 +37,4 @@
 
 # Resumo dos Resultados:
 
-• Neste cenário um teste de sanidade que levava de 10 a 20 minutos para ser executado manualmente, foi automatizado e passou a ser executado em apenas 42 segundos. Gerando automaticamente os relatórios e as evidências dos casos de testes. 
+• Neste cenário, um teste de sanidade que inicialmente exigia de 10 a 20 minutos para ser executado manualmente foi automatizado, reduzindo o tempo de execução para apenas 42 segundos. Além disso, a automação passou a gerar automaticamente os relatórios e as evidências dos casos de teste
